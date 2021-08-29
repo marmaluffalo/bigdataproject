@@ -1,0 +1,199 @@
+﻿Map Country Name,Color,Masks Required? (At Least In Businesses),Type of Requirement?,Recommend To Wear Masks?
+Germany,3,Full Country,Public Transport & Shopping,Yes
+United Kingdom,3,Full Country,"Public transit, shops, and supermarkets",Yes
+France,3,Full Country,All Indoor Public Places,Yes
+Italy,3,Full Country,Public Transport & Stores,Yes
+Spain,3,Full Country,Everywhere in Public Where Social Distancing Isn't Possible,Yes
+Mexico,3,Full Country,Everywhere in public where social distancing isn't possible,Yes
+Indonesia,3,Full Country,Everywhere in Public,Yes
+Saudi Arabia,3,Full Country,Everywhere in public,Yes
+Turkey,3,Full Country,"Public Transport, Markets, Supermarkets & Crowded Places",Yes
+Switzerland,3,Full Country,"Public Transport, Businesses & Offices",Yes
+Poland,3,Full Country,Everywhere in Public,Yes
+Belgium,3,Full Country,Public Transport + Everywhere in Public Where Social Distancing Isn't Possible,Yes
+Argentina,3,Full Country,Public Transport + Select States: Everywhere,Yes
+Thailand,3,Full Country,Everywhere in Public,Yes
+Austria,3,Full Country,Public Transport & Stores,Yes
+United Arab Emirates,3,Full Country,Everywhere in Public,Yes
+Nigeria,3,Full Country,Everywhere in Public,Yes
+Ireland,3,Full Country,Public Transport & Indoor Shops,Yes
+Israel,3,Full Country,Everywhere in Public,Yes
+South Africa,3,Full Country,Everywhere in Public,Yes
+Singapore,3,Full Country,Everywhere in Public,Yes
+Malaysia,3,Full Country,All Crowded Places + Universal Mask Usage,Yes
+Denmark,3,Full Country,All Indoor Public Places,Yes
+Colombia,3,Full Country,Everywhere in Public Where Social Distancing Isn't Possible,Yes
+Philippines,3,Full Country,Everywhere in Public,Yes
+Pakistan,3,Full Country,Everywhere in public,Yes
+Chile,3,Full Country,Public Transport + Everywhere in Public With More Than 10 People,Yes
+Bangladesh,3,Full Country,Everywhere in public,Yes
+Arab Republic of Egypt,3,Full Country,Everywhere in Public,Yes
+Czech Republic,3,Full Country,All Indoor Public Places,Yes
+Vietnam,3,Full Country,Everywhere in Public,Yes
+Portugal,3,Full Country,All Indoor Public Places,Yes
+Romania,3,Full Country,All Indoor Public Places,Yes
+Iraq,3,Full Country,Everywhere In Public,Yes
+Peru,3,Full Country,Everywhere in Public,Yes
+Greece,3,Full Country,All Indoor Public Places,Yes
+Qatar,3,Full Country,Everywhere in Public,Yes
+Kazakhstan,3,Full Country,Public buses & at airports,Yes
+Algeria,3,Full Country,Everywhere in Public,Yes
+Hungary,3,Full Country,Public Transport + All Indoor Public Places,Yes
+Kuwait,3,Full Country,Everywhere in Public,Yes
+Ukraine,3,Full Country,Everywhere in Public,Yes
+Morocco,3,Full Country,Everywhere in Public,Yes
+Ecuador,3,Full Country,Everywhere in Public,Yes
+Slovak Republic,3,Full Country,All Indoor Public Places + Outdoor Within 20 Meters of Others,Yes
+Angola,3,Full Country,Public Transport + Markets + Most Public Places,Yes
+Cuba,3,Full Country,Everywhere In Public,Yes
+Sri Lanka,3,Full Country,Everywhere In Public,Yes
+Kenya,3,Full Country,Everywhere In Public,Yes
+Dominican Republic,3,Full Country,Everywhere In Public,Yes
+Ethiopia,3,Full Country,Everywhere In Public,Yes
+Oman,3,Full Country,Everywhere in public,Yes
+Guatemala,3,Full Country,Everywhere In Public,Yes
+Myanmar,3,Full Country,Everywhere In Public,Yes
+Luxembourg,3,Full Country,Everywhere In Public,Yes
+Ghana,3,Full Country,Everywhere In Public,Yes
+Bulgaria,3,Full Country,Everywhere In Public,Yes
+Panama,3,Full Country,Everywhere In Public,Yes
+Croatia,3,Full Country,"Public transportation, medical facilities, shops, and malls",Yes
+Costa Rica,3,Full Country,"Public transit, cinemas, churches, theaters, banks, and restaurants",Yes
+Uruguay,3,Full Country,"Supermarkets, Banks & Some Indoor Spaces",Yes
+Lebanon,3,Full Country,Everywhere In Public,Yes
+Slovenia,3,Full Country,All Indoor Public Places,Yes
+Lithuania,3,Full Country,Everywhere In Public,Yes
+Serbia,3,Full Country,All Indoor Public Places,Yes
+Uzbekistan,3,Full Country,Everywhere In Public (Major Cities),Yes
+Côte d'Ivoire,3,Full Country,null,Yes
+Paraguay,3,Full Country,Everywhere in Public Where Social Distancing Isn't Possible,Yes
+Bolivia,3,Full Country,null,Yes
+Tunisia,3,Full Country,Everywhere In Public,Yes
+Cameroon,3,Full Country,Everywhere In Public,Yes
+Bahrain,3,Full Country,Everywhere In Public,Yes
+Zimbabwe,3,Full Country,Everywhere In Public,Yes
+Uganda,3,Full Country,Everywhere In Public,Yes
+Zambia,3,Full Country,Everywhere In Public,Yes
+El Salvador,3,Full Country,Everywhere In Public,Yes
+Senegal,3,Full Country,Certain Public Places,Yes
+Honduras,3,Full Country,Everywhere In Public,Yes
+Trinidad and Tobago,3,Full Country,Everywhere In Public,Yes
+Bosnia and Herzegovina,3,Full Country,Everywhere In Public,Yes
+Botswana,3,Full Country,Everywhere In Public,Yes
+Georgia,3,Full Country,All Indoor Public Places,Yes
+Mali,3,Full Country,Everywhere in Public,Yes
+Gabon,3,Full Country,Everywhere in Public,Yes
+Jamaica,3,Full Country,Everywhere in Public,Yes
+Mozambique,3,Full Country,Everywhere in Public Where Social Distancing Isn't Possible,Yes
+Malta,3,Full Country,Public Transport + Shopping,Yes
+Namibia,3,Full Country,Everywhere in Public,Yes
+Mauritius,3,Full Country,Everywhere in Public,Yes
+Burkina Faso,3,Full Country,Everywhere in Public,Yes
+Equatorial Guinea,3,Full Country,Everywhere in Public,Yes
+Mongolia,3,Full Country,Everywhere in Public,Yes
+North Macedonia,3,Full Country,Everywhere in Public Where Social Distancing Isn't Possible,Yes
+The Bahamas,3,Full Country,Everywhere in Public,Yes
+Moldova,3,Full Country,All Indoor Public Places,Yes
+Chad,3,Full Country,Everywhere in Public,Yes
+Congo,3,Full Country,Everywhere in Public,Yes
+Guinea,3,Full Country,Everywhere in Public,Yes
+Benin,3,Full Country,Everywhere in Public,Yes
+Haiti,3,Full Country,Everywhere in Public,Yes
+Rwanda,3,Full Country,Everywhere in Public,Yes
+Tajikistan,3,Full Country,Everywhere in Public,Yes
+Monaco,3,Full Country,Public Transport + Shops,Yes
+Montenegro,3,Full Country,All Indoor Public Places,Yes
+Maldives,3,Full Country,Everywhere in public,Yes
+Mauritania,3,Full Country,Everywhere in public,Yes
+Sierra Leone,3,Full Country,Everywhere in Public,Yes
+Liberia,3,Full Country,Everywhere in Public,Yes
+Andorra,3,Full Country,Everywhere in Public,Yes
+Djibouti,3,Full Country,Everywhere in Public Where Social Distancing Isn't Possible,Yes
+Lesotho,3,Full Country,Everywhere in Public,Yes
+Timor-Leste,3,Full Country,All Commercial Establishments,Yes
+Central African Republic,3,Full Country,Everywhere in public,Yes
+Cape Verde,3,Full Country,All Indoor Public Places With Multiple People,Yes
+Saint Lucia,3,Full Country,Everywhere in Public,Yes
+Belize,3,Full Country,Everywhere in Public,Yes
+The Gambia,3,Full Country,null,Yes
+Antigua and Barbuda,3,Full Country,Everywhere in Public,Yes
+Guinea-Bissau,3,Full Country,Everywhere in public,Yes
+Grenada,3,Full Country,All Indoor Public Places,Yes
+Saint Kitts and Nevis,3,Full Country,Everywhere in Public,Yes
+Dominica,3,Full Country,Everywhere in Public,Yes
+São Tomé and Príncipe,3,Full Country,Public Roads & Business Employees,Yes
+South Sudan,3,Full Country,Everywhere in Public,Yes
+Islamic Republic of Iran,3,Full Country,Everywhere in public,Yes
+R. B. de Venezuela,3,Full Country,Everywhere in Public,Yes
+Kyrgyz Republic,3,Full Country,All Indoor Public Places With Multiple People,Yes
+D. P. R. of Korea,3,Full Country,Everywhere in Public,Yes
+China,3,"No, But Universal Mask Usage",Universal Mask Usage,Yes
+Japan,3,"No, But Universal Mask Usage",Universal Mask Usage,Yes
+India,3,"No, But Universal Mask Usage",Universal Mask Usage,Yes
+Republic of Korea,3,"No, But Universal Mask Usage",Universal Mask Usage,Yes
+Taiwan,3,"No, But Universal Mask Usage",Public Transport,Yes
+"Hong Kong, SAR",3,"No, But Universal Mask Usage",Universal Mask Usage,Yes
+Netherlands,2,Full Country,Public Transport,Yes
+Azerbaijan,2,Full Country,Public Transport,Yes
+Latvia,2,Full Country,Public Transport,Yes
+Armenia,2,Full Country,Public Transport,Yes
+Barbados,2,Full Country,Public Transport,Yes
+United States of America,2,Parts of Country,null,Yes
+Brazil,2,Parts of Country,null,Yes
+Canada,2,Parts of Country,null,Yes
+Russian Federation,2,Parts of Country,Public Transport + Shops,Yes
+Australia,2,Parts of Country,null,No
+Tanzania,2,Parts of Country,null,Yes
+Democratic Republic of Congo,2,Parts of Country,Everywhere In Public,Yes
+Jordan,2,Parts of Country,null,Yes
+Nepal,2,Parts of Country,null,Yes
+Cyprus,2,Parts of Country,null,Yes
+Cambodia,2,Parts of Country,null,Yes
+Papua New Guinea,2,Parts of Country,null,Yes
+Afghanistan,2,Parts of Country,null,null
+Madagascar,2,Parts of Country,null,Yes
+Brunei Darussalam,2,Parts of Country,null,Yes
+Nicaragua,2,Parts of Country,null,Yes
+Niger,2,Parts of Country,null,Yes
+Guyana,2,Parts of Country,null,Yes
+null,2,Parts of Country,null,Yes
+Norway,2,"No, But Recommends Masks",null,Yes
+Finland,2,"No, But Recommends Masks",null,Yes
+New Zealand,2,"No, But Recommends Masks",null,Yes
+Libya,2,"No, But Recommends Masks",null,Yes
+Estonia,2,"No, But Recommends Masks",null,Yes
+Iceland,2,"No, But Recommends Masks",null,Yes
+Lao People's Democratic Republic,2,"No, But Recommends Masks",null,Yes
+Albania,2,"No, But Recommends Masks",null,Yes
+Eswatini,2,"No, But Recommends Masks",null,Yes
+Malawi,2,"No, But Recommends Masks",null,Yes
+Togo,2,"No, But Recommends Masks",null,Yes
+Suriname,2,"No, But Recommends Masks",null,Yes
+Burundi,2,"No, But Recommends Masks",null,Yes
+Bhutan,2,"No, But Recommends Masks",null,Yes
+Seychelles,2,"No, But Recommends Masks",null,Yes
+Vanuatu,2,"No, But Recommends Masks",null,Yes
+Saint Vincent and the Grenadines,2,"No, But Recommends Masks",null,Yes
+Palau,2,"No, But Recommends Masks",null,Yes
+Liechtenstein,2,"No, But Recommends Masks",null,Yes
+Sweden,1,No,null,No
+Belarus,1,No,null,null
+Sudan,1,No,null,null
+Turkmenistan,1,No,null,null
+Republic of Yemen,1,No,null,null
+Fiji,1,No,null,null
+Somalia,1,No,null,null
+Solomon Islands,1,No,null,null
+Comoros,1,No,null,null
+Samoa,1,No,null,null
+Tonga,1,No,null,null
+Federated States of Micronesia,1,No,null,null
+Marshall Islands,1,No,null,null
+Kiribati,1,No,null,null
+Nauru,1,No,null,null
+Tuvalu,1,No,null,null
+San Marino,1,No,null,null
+Eritrea,1,No,null,null
+null,1,No,null,null
+Syrian Arab Republic,1,No,null,null
+Greenland (Den.),1,No,null,null
